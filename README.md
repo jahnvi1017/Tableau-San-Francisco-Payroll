@@ -34,4 +34,3 @@ Here's how my dashboard look like:
 The following viz shows the percentage and amount of Base pay, Overtime pay, Other Pay, Benefits, and their total as  Total Pay and Benefits according to the job titles selected. This vizualization also show how the various job titles pay are different from others. 
 
 ![Screenshot 2024-04-28 173438](https://github.com/jahnvi1017/Tableau-San-Francisco-Payroll/assets/168184461/bd57eb05-0fed-4f70-a5da-4914ac4c9663)
-
