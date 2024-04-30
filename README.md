@@ -1,6 +1,6 @@
 # Tableau-San-Francisco-Payroll
 ### Overview
-The projects show different visualizations based on San Francisco payroll data of employees. I have used Calculated fields, Parameters, pages card, Grouping, pivoting, overlay multple data in a single data source, and many more functions in this project.
+The projects show different visualizations based on San Francisco payroll data of employees. I have used Tableau to create these vizualizations and have used Calculated fields, Parameters, pages card, Grouping, pivoting, overlay multple data in a single data source, and many more functions in this project.
 
 ### Link to Dashboard
 [Click here](https://public.tableau.com/app/profile/jahnvi.garg/viz/San-FranciscoPayroll/Dashboard1 "Jahnvi Garg Tableau Project")
