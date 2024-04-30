@@ -30,7 +30,7 @@ Here's how my dashboard look like:
 
 ![Screenshot 2024-04-28 171557](https://github.com/jahnvi1017/Tableau-San-Francisco-Payroll/assets/168184461/fe3f66fb-039c-4e4a-89ec-7e8fbcb72700)
 
-- Created a waterfall chart and added subgroup calculations.
+- Created a waterfall chart and added subgroup calculations using Gant Bar.
 The following viz shows the percentage and amount of Base pay, Overtime pay, Other Pay, Benefits, and their total as  Total Pay and Benefits according to the job titles selected. This vizualization also show how the various job titles pay are different from others. 
 
 ![Screenshot 2024-04-28 173438](https://github.com/jahnvi1017/Tableau-San-Francisco-Payroll/assets/168184461/bd57eb05-0fed-4f70-a5da-4914ac4c9663)
