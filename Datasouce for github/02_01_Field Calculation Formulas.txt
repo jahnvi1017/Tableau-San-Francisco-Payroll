@@ -1,0 +1,23 @@
+Formulas for field calculations:
+
+
+Field: “Starting Point”
+Formula:
+CASE [Label]
+WHEN "Base Pay" THEN 0
+WHEN "Overtime Pay" THEN ([Base Pay])
+WHEN "Other Pay" THEN ([Base Pay] + [Overtime Pay])
+WHEN "Benefits" THEN  ([Total Pay])
+WHEN "Total Pay & Benefits" THEN 0
+END
+
+
+Field: “Bar Value”
+Formula:
+Case [Label]
+WHEN "Base Pay" Then [Base Pay]
+WHEN "Overtime Pay" then [Overtime Pay]
+WHEN "Other Pay" then [Other Pay]
+WHEN "Benefits" then [Benefits]
+WHEN "Total Pay & Benefits" then [Total Pay Benefits]
+END

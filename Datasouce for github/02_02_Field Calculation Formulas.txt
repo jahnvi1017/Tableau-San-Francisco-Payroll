@@ -1,0 +1,17 @@
+Formulas for created fields:
+
+
+Field: “Selected Sub-Cat Profit Ratio”
+Formula:
+IF ATTR([Sub-Category])=[Sub-Category Selector] THEN [Profit Ratio] END
+
+
+Field: “Annual Avg PR”
+Formula:
+{FIXED YEAR([Order Date]): SUM([Profit]) / SUM([Sales])}
+
+
+Filed: “PR Diff from Annual”
+Formula:
+{ FIXED [Sub-Category],YEAR([Order Date]): sum([Profit]) / sum([Sales])}  
+-  { FIXED YEAR([Order Date]): sum([Profit]) / sum([Sales])}
