@@ -3,7 +3,8 @@
 
 Here's how my dashboard look like:
 
-![Screenshot 2024-04-30 101533](https://github.com/jahnvi1017/Tableau-San-Francisco-Payroll/assets/168184461/56b0bb85-b11f-4789-8cc5-b83fab8e8122)
+![Dashboard](https://github.com/jahnvi1017/Tableau-San-Francisco-Payroll/assets/168184461/fe1a9640-34ea-4145-8cd5-f8e84534e71f)
+
 
 1. Created scattered plot and calculated fields to highlight the employee and her position in different years.
 
